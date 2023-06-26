@@ -1,0 +1,2951 @@
+[
+ {
+  "id":"gwtc-1-c",
+  "name":"gwtc-1-confident",
+  "parent_id":"0"
+ },
+ {
+  "id":"gwtc-2.1-c",
+  "name":"gwtc-2.1-confident",
+  "parent_id":"0"
+ },
+ {
+  "id":"gwtc-3-c",
+  "name":"gwtc-3-confident",
+  "parent_id":"0"
+ },
+ {
+  "id":"GW150914",
+  "name":"GW150914",
+  "parent_id":"gwtc-1-c"
+ },
+ {
+  "id":"GW151012",
+  "name":"GW151012",
+  "parent_id":"gwtc-1-c"
+ },
+ {
+  "id":"GW151226",
+  "name":"GW151226",
+  "parent_id":"gwtc-1-c"
+ },
+ {
+  "id":"GW170104",
+  "name":"GW170104",
+  "parent_id":"gwtc-1-c"
+ },
+ {
+  "id":"GW170608",
+  "name":"GW170608",
+  "parent_id":"gwtc-1-c"
+ },
+ {
+  "id":"GW170729",
+  "name":"GW170729",
+  "parent_id":"gwtc-1-c"
+ },
+ {
+  "id":"GW170809",
+  "name":"GW170809",
+  "parent_id":"gwtc-1-c"
+ },
+ {
+  "id":"GW170814",
+  "name":"GW170814",
+  "parent_id":"gwtc-1-c"
+ },
+ {
+  "id":"GW170817",
+  "name":"GW170817",
+  "parent_id":"gwtc-1-c"
+ },
+ {
+  "id":"GW170818",
+  "name":"GW170818",
+  "parent_id":"gwtc-1-c"
+ },
+ {
+  "id":"GW170823",
+  "name":"GW170823",
+  "parent_id":"gwtc-1-c"
+ },
+
+ {
+  "id":"GW190403_051519",
+  "name":"GW190403_051519",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190408_181802",
+  "name":"GW190408_181802",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190412",
+  "name":"GW190412",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190413_052954",
+  "name":"GW190413_052954",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190413_134308",
+  "name":"GW190413_134308",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190421_213856",
+  "name":"GW190421_213856",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190425",
+  "name":"GW190425",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190426_190642",
+  "name":"GW190426_190642",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190503_185404",
+  "name":"GW190503_185404",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190512_180714",
+  "name":"GW190512_180714",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190513_205428",
+  "name":"GW190513_205428",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190514_065416",
+  "name":"GW190514_065416",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190517_055101",
+  "name":"GW190517_055101",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190519_153544",
+  "name":"GW190519_153544",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190521",
+  "name":"GW190521",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190521_074359",
+  "name":"GW190521_074359",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190527_092055",
+  "name":"GW190527_092055",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190602_175927",
+  "name":"GW190602_175927",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190620_030421",
+  "name":"GW190620_030421",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190630_185205",
+  "name":"GW190630_185205",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190701_203306",
+  "name":"GW190701_203306",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190706_222641",
+  "name":"GW190706_222641",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190707_093326",
+  "name":"GW190707_093326",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190708_232457",
+  "name":"GW190708_232457",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190719_215514",
+  "name":"GW190719_215514",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190720_000836",
+  "name":"GW190720_000836",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190725_174728",
+  "name":"GW190725_174728",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190727_060333",
+  "name":"GW190727_060333",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190728_064510",
+  "name":"GW190728_064510",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190731_140936",
+  "name":"GW190731_140936",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190803_022701",
+  "name":"GW190803_022701",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190805_211137",
+  "name":"GW190805_211137",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190814",
+  "name":"GW190814",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190828_063405",
+  "name":"GW190828_063405",
+  "parent_id":"gwtc-2.1-c"
+ },
+
+
+ {
+  "id":"GW190828_065509",
+  "name":"GW190828_065509",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190910_112807",
+  "name":"GW190910_112807",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190915_235702",
+  "name":"GW190915_235702",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190916_200658",
+  "name":"GW190916_200658",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190917_114630",
+  "name":"GW190917_114630",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190924_021846",
+  "name":"GW190924_021846",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190925_232845",
+  "name":"GW190925_232845",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190926_050336",
+  "name":"GW190926_050336",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190929_012149",
+  "name":"GW190929_012149",
+  "parent_id":"gwtc-2.1-c"
+ },
+ {
+  "id":"GW190930_133541",
+  "name":"GW190930_133541",
+  "parent_id":"gwtc-2.1-c"
+ },
+
+
+
+
+
+
+ {
+  "id":"GW191103_012549",
+  "name":"GW191103_012549",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW191105_143521",
+  "name":"GW191105_143521",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW191109_010717",
+  "name":"GW191109_010717",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW191113_071753",
+  "name":"GW191113_071753",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW191126_115259",
+  "name":"GW191126_115259",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW191127_050227",
+  "name":"GW191127_050227",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW191129_134029",
+  "name":"GW191129_134029",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW191204_110529",
+  "name":"GW191204_110529",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW191204_171526",
+  "name":"GW191204_171526",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW191215_223052",
+  "name":"GW191215_223052",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW191216_213338",
+  "name":"GW191216_213338",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW191219_163120",
+  "name":"GW191219_163120",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW191222_033537",
+  "name":"GW191222_033537",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW191230_180458",
+  "name":"GW191230_180458",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW200112_155838",
+  "name":"GW200112_155838",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW200115_042309",
+  "name":"GW200115_042309",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW200128_022011",
+  "name":"GW200128_022011",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW200129_065458",
+  "name":"GW200129_065458",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW200202_154313",
+  "name":"GW200202_154313",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW200208_130117",
+  "name":"GW200208_130117",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW200208_222617",
+  "name":"GW200208_222617",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW200209_085452",
+  "name":"GW200209_085452",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW200210_092254",
+  "name":"GW200210_092254",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW200216_220804",
+  "name":"GW200216_220804",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW200219_094415",
+  "name":"GW200219_094415",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW200220_061928",
+  "name":"GW200220_061928",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW200220_124850",
+  "name":"GW200220_124850",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW200224_222234",
+  "name":"GW200224_222234",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW200225_060421",
+  "name":"GW200225_060421",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW200302_015811",
+  "name":"GW200302_015811",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW200306_093714",
+  "name":"GW200306_093714",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW200308_173609",
+  "name":"GW200308_173609",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW200311_115853",
+  "name":"GW200311_115853",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW200316_215756",
+  "name":"GW200316_215756",
+  "parent_id":"gwtc-3-c"
+ },
+ {
+  "id":"GW200322_091133",
+  "name":"GW200322_091133",
+  "parent_id":"gwtc-3-c"
+ },
+
+
+ {
+  "id":"1",
+  "name":"C01:IMRPhenomXPHM",
+  "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+  "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-1-confident/GW150914/v3",
+  "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW150914_095045_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+  "parent_id":"GW150914",
+  "publication_data":"May 11, 2022."
+ },
+ {
+  "id":"2",
+  "name":"C01:Mixed",
+  "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+  "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-1-confident/GW150914/v3",
+  "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW150914_095045_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+  "parent_id":"GW150914",
+  "publication_data":"May 11, 2022."
+ },
+ {
+  "id":"3",
+  "name":"C01:SEOBNRv4PHM",
+  "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+  "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-1-confident/GW150914/v3",
+  "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW150914_095045_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+  "parent_id":"GW150914",
+  "publication_data":"May 11, 2022."
+},
+
+{
+ "id":"4",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-1-confident/GW151012/v3",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW151012_095443_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW151012",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"5",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-1-confident/GW151012/v3",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW151012_095443_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW151012",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"6",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-1-confident/GW151012/v3",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW151012_095443_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW151012",
+ "publication_data":"May 11, 2022."
+},
+
+{
+ "id":"7",
+ "name":"C01:IMRPhenomXPHM.fits",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-1-confident/GW151226/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW151226_033853_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW151226",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"8",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-1-confident/GW151226/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW151226_033853_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW151226",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"9",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-1-confident/GW170104/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170104_101158_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW170104",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"10",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-1-confident/GW170104/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170104_101158_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW170104",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"11",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-1-confident/GW170104/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170104_101158_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW170104",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"12",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-1-confident/GW170608/v3",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170608_020116_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW170608",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"13",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-1-confident/GW170608/v3",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170608_020116_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW170608",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"14",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-1-confident/GW170608/v3",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170608_020116_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW170608",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"15",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-1-confident/GW170729/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170729_185629_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW170729",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"16",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-1-confident/GW170729/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170729_185629_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW170729",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"17",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-1-confident/GW170729/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170729_185629_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW170729",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"18",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-1-confident/GW170809/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170809_082821_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW170809",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"19",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-1-confident/GW170809/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170809_082821_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW170809",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"20",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-1-confident/GW170809/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170809_082821_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW170809",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"21",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-1-confident/GW170814/v3",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170814_103043_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW170814",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"22",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-1-confident/GW170814/v3",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170814_103043_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW170814",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"23",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-1-confident/GW170814/v3",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170814_103043_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW170814",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"24",
+ "name":"TaylorF2",
+ "zenodo_url":"https://dcc.ligo.org/LIGO-P1800381/public",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-1-confident/GW170817/v3",
+ "skymap_url":"https://virgo.pg.infn.it/maps/gw170817_skymap/GW170817_skymap.fits.gz",
+ "parent_id":"GW170817",
+ "publication_data":"June 21, 2019."
+},
+{
+ "id":"25",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-1-confident/GW170818/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170818_022509_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW170818",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"26",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-1-confident/GW170818/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170818_022509_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW170818",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"27",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-1-confident/GW170818/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170818_022509_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW170818",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"28",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-1-confident/GW170823/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170823_131358_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW170823",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"29",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-1-confident/GW170823/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170823_131358_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW170823",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"30",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-1-confident/GW170823/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170823_131358_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW170823",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"31",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190403_051519/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190403_051519_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190403_051519",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"32",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190403_051519/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190403_051519_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190403_051519",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"33",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190403_051519/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190403_051519_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190403_051519",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"34",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190408_181802/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190408_181802_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190408_181802",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"35",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190408_181802/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190408_181802_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190408_181802",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"36",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190408_181802/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190408_181802_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190408_181802",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"37",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190412/v4",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190412_053044_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190412",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"38",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190412/v4",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190412_053044_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190412",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"39",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190412/v4",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190412_053044_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190412",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"40",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190413_052954/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190413_052954_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190413_052954",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"41",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190413_052954/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190413_052954_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190413_052954",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"42",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190413_052954/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190413_052954_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190413_052954",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"43",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190413_134308/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190413_134308_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190413_134308",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"44",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190413_134308/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190413_134308_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190413_134308",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"45",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190413_134308/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190413_134308_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190413_134308",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"46",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190421_213856/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190421_213856_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190421_213856",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"47",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190421_213856/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190421_213856_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190421_213856",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"48",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190421_213856/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190421_213856_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190421_213856",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"49",
+ "name":"C01:IMRPhenomPv2_NRTidal:HighSpin",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190425/v3",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190425_081805_PEDataRelease_cosmo_reweight_C01:IMRPhenomPv2_NRTidal:HighSpin.fits",
+ "parent_id":"GW190425",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"50",
+ "name":"C01:IMRPhenomPv2_NRTidal:LowSpin",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190425/v3",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190425_081805_PEDataRelease_cosmo_reweight_C01:IMRPhenomPv2_NRTidal:LowSpin.fits",
+ "parent_id":"GW190425",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"51",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190425/v3",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190425_081805_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190425",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"52",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190426_190642/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190426_190642_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190426_190642",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"53",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190426_190642/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190426_190642_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190426_190642",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"54",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190426_190642/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190426_190642_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190426_190642",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"55",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190503_185404/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190503_185404_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190503_185404",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"56",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190503_185404/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190503_185404_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190503_185404",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"57",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190503_185404/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190503_185404_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190503_185404",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"58",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190512_180714/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190512_180714_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190512_180714",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"59",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190512_180714/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190512_180714_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190512_180714",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"60",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190512_180714/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190512_180714_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190512_180714",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"61",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190513_205428/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190513_205428_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190513_205428",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"62",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190513_205428/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190513_205428_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190513_205428",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"63",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190513_205428/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190513_205428_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190513_205428",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"64",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190514_065416/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190514_065416_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190514_065416",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"65",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190514_065416/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190514_065416_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190514_065416",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"66",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190514_065416/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190514_065416_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190514_065416",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"67",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190517_055101/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190517_055101_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190517_055101",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"68",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190517_055101/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190517_055101_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190517_055101",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"69",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190517_055101/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190517_055101_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190517_055101",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"70",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190519_153544/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190519_153544_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190519_153544",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"71",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190519_153544/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190519_153544_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190519_153544",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"72",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190519_153544/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190519_153544_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190519_153544",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"73",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190521/v4",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190521_030229_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190521",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"74",
+ "name":"01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190521/v4",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190521_030229_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190521",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"75",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190521_074359/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190521_074359_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190521_074359",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"76",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190521_074359/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190521_074359_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190521_074359",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"77",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190521_074359/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190521_074359_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190521_074359",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"78",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190527_092055/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190527_092055_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190527_092055",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"79",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190527_092055/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190527_092055_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190527_092055",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"80",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190527_092055/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190527_092055_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190527_092055",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"81",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190602_175927/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190602_175927_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190602_175927",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"82",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190602_175927/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190602_175927_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190602_175927",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"83",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190602_175927/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190602_175927_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190602_175927",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"84",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190620_030421/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190620_030421_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190620_030421",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"85",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190620_030421/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190620_030421_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190620_030421",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"86",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190620_030421/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190620_030421_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190620_030421",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"87",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190630_185205/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190630_185205_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190630_185205",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"88",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190630_185205/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190630_185205_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190630_185205",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"89",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190630_185205/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190630_185205_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190630_185205",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"90",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190701_203306/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190701_203306_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190701_203306",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"91",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190701_203306/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190701_203306_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190701_203306",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"92",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190701_203306/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190701_203306_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190701_203306",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"93",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190706_222641/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190706_222641_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190706",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"94",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190706_222641/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190706_222641_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190706",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"95",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190706_222641/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190706_222641_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190706",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"96",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190707_093326/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190707_093326_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190707_093326",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"97",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190707_093326/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190707_093326_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190707_093326",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"98",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190707_093326/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190707_093326_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190707_093326",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"99",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190708_232457/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190708_232457_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190708_232457",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"100",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190708_232457/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190708_232457_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190708_232457",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"101",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190708_232457/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190708_232457_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190708_232457",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"102",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190719_215514/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190719_215514_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190719_215514",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"103",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190719_215514/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190719_215514_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190719_215514",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"104",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190719_215514/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190719_215514_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190719_215514",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"105",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190720_000836/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190720_000836_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190720_000836",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"106",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190720_000836/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190720_000836_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190720_000836",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"107",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190720_000836/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190720_000836_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190720_000836",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"108",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190725_174728/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190725_174728_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190725_174728",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"109",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190725_174728/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190725_174728_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190725_174728",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"110",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190725_174728/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190725_174728_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190725_174728",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"111",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190727_060333/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190727_060333_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190727_060333",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"112",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190727_060333/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190727_060333_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190727_060333",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"113",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190727_060333/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190727_060333_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190727_060333",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"114",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190728_064510/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190728_064510_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190728_064510",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"115",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190728_064510/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190728_064510_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190728_064510",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"116",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190728_064510/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190728_064510_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190728_064510",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"117",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190731_140936/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190731_140936_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190731_140936",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"118",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190731_140936/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190731_140936_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190731_140936",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"119",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190731_140936/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190731_140936_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190731_140936",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"120",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190803_022701/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190803_022701_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190803_022701",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"121",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190803_022701/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190803_022701_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190803_022701",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"122",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190803_022701/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190803_022701_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190803_022701",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"123",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190805_211137/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190805_211137_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190805_211137",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"124",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190805_211137/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190805_211137_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190805_211137",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"125",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190805_211137/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190805_211137_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190805_211137",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"126",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190814/v3",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190814_211039_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190814",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"127",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190814/v3",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190814_211039_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190814",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"128",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190828_063405/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190828_063405_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190828_063405",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"129",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190828_063405/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190828_063405_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190828_063405",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"130",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190828_065509/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190828_065509_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190828_065509",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"131",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190828_065509/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190828_065509_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190828_065509",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"132",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190910_112807/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190910_112807_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190910_112807",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"133",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190910_112807/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190910_112807_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190910_112807",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"134",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190910_112807/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190910_112807_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190910_112807",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"135",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190915_235702/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190915_235702_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190915_235702",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"136",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190915_235702/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190915_235702_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190915_235702",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"137",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190915_235702/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190915_235702_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190915_235702",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"138",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190916_200658/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190916_200658_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190916_200658",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"139",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190916_200658/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190916_200658_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190916_200658",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"140",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190916_200658/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190916_200658_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190916_200658",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"141",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190917_114630/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190917_114630_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190917_114630",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"142",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190917_114630/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190917_114630_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190917_114630",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"143",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190924_021846/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190924_021846_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190924_021846",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"144",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190924_021846/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190924_021846_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190924_021846",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"145",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190924_021846/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190924_021846_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190924_021846",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"146",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190925_232845/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190925_232845_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190925_232845",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"147",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190925_232845/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190925_232845_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190925_232845",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"148",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190925_232845/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190925_232845_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190925_232845",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"149",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190926_050336/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190926_050336_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190926_050336",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"150",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190929_012149/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190929_012149_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190929_012149",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"151",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190929_012149/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190929_012149_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190929_012149",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"152",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190929_012149/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190929_012149_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190929_012149",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"153",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190930_133541/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190930_133541_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW190930_133541",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"154",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190930_133541/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190930_133541_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW190930_133541",
+ "publication_data":"May 11, 2022."
+},
+{
+ "id":"155",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://doi.org/10.5281/zenodo.6513631",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/gwtc-2.1-confident/GW190930_133541/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190930_133541_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW190930_133541",
+ "publication_data":"May 11, 2022."
+},
+
+
+
+{
+ "id":"156",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191103_012549/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191103_012549_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW191103_012549",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"157",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191103_012549/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191103_012549_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW191103_012549",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"158",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191103_012549/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191103_012549_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW191103_012549",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"159",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191105_143521/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191105_143521_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW191105_143521",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"160",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191105_143521/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191105_143521_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW191105_143521",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"161",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191105_143521/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191105_143521_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW191105_143521",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"162",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191109_010717/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191109_010717_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW191109_010717",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"163",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191109_010717/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191109_010717_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW191109_010717",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"164",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191109_010717/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191109_010717_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW191109_010717",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"165",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191113_071753/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191113_071753_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW191113_071753",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"166",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191113_071753/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191113_071753_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW191113_071753",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"167",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191113_071753/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191113_071753_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW191113_071753",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"168",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191126_115259/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191126_115259_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW191126_115259",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"169",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191126_115259/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191126_115259_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW191126_115259",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"170",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191126_115259/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191126_115259_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW191126_115259",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"171",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191127_050227/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191127_050227_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW191127_050227",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"172",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191127_050227_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "skymap_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191127_050227/v1",
+ "parent_id":"GW191127_050227",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"173",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191127_050227/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191127_050227_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW191127_050227",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"174",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191129_134029/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191129_134029_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW191129_134029",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"175",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191129_134029/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191129_134029_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW191129_134029",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"176",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191129_134029/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191129_134029_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW191129_134029",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"177",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191204_110529/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191204_110529_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW191204_110529",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"178",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191204_110529/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191204_110529_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW191204_110529",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"179",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191204_110529/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191204_110529_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW191204_110529",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"180",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191204_171526/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191204_171526_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW191204_171526",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"181",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191204_171526/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191204_171526_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW191204_171526",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"182",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191204_171526/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191204_171526_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW191204_171526",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"183",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191215_223052/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191215_223052_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW191215_223052",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"184",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191215_223052/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191215_223052_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW191215_223052",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"185",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191215_223052/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191215_223052_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW191215_223052",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"186",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191216_213338/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191216_213338_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW191216_213338",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"187",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191216_213338/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191216_213338_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW191216_213338",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"188",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191216_213338/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191216_213338_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW191216_213338",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"189",
+ "name":"C01:IMRPhenomNSBH:HighSpin",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191219_163120/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191219_163120_PEDataRelease_cosmo_reweight_C01/IMRPhenomNSBH/HighSpin.fits",
+ "parent_id":"GW191219_163120",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"190",
+ "name":"C01:IMRPhenomNSBH:LowSpin",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191219_163120/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191219_163120_PEDataRelease_cosmo_reweight_C01/IMRPhenomNSBH/LowSpin.fits",
+ "parent_id":"GW191219_163120",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"191",
+ "name":"C01:IMRPhenomXPHM:HighSpin",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191219_163120/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191219_163120_PEDataRelease_cosmo_reweight_C01:IMRPhenomNSBH:HighSpin.fits",
+ "parent_id":"GW191219_163120",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"192",
+ "name":"C01:IMRPhenomXPHM:LowSpin",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191219_163120/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191219_163120_PEDataRelease_cosmo_reweight_C01:IMRPhenomNSBH:LowSpin.fits",
+ "parent_id":"GW191219_163120",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"193",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191219_163120/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191219_163120_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW191219_163120",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"194",
+ "name":"C01:Mixed:NSBH:HighSpin",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191219_163120/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191219_163120_PEDataRelease_cosmo_reweight_C01:Mixed:NSBH:HighSpin.fits",
+ "parent_id":"GW191219_163120",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"195",
+ "name":"C01:Mixed:NSBH:LowSpin",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191219_163120/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191219_163120_PEDataRelease_cosmo_reweight_C01:Mixed:NSBH:LowSpin.fits",
+ "parent_id":"GW191219_163120",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"196",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191219_163120/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191219_163120_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW191219_163120",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"197",
+ "name":"C01:SEOBNRv4_ROM_NRTidalv2_NSBH:HighSpin",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191219_163120/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191219_163120_PEDataRelease_cosmo_reweight_C01:SEOBNRv4_ROM_NRTidalv2_NSBH:HighSpin.fits",
+ "parent_id":"GW191219_163120",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"198",
+ "name":"C01:SEOBNRv4_ROM_NRTidalv2_NSBH:LowSpin",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191219_163120/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191219_163120_PEDataRelease_cosmo_reweight_C01:SEOBNRv4_ROM_NRTidalv2_NSBH:LowSpin.fits",
+ "parent_id":"GW191219_163120",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"199",
+ "name":"C01:IMRPhenomXPHM.fits",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191222_033537/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191222_033537_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW191222_033537",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"200",
+ "name":"01:Mixed",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191222_033537/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191222_033537_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW191222_033537",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"201",
+ "name":"C01:SEOBNRv4PHM.fits",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191222_033537/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191222_033537_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW191222_033537",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"202",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191230_180458/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191230_180458_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW191230_180458",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"203",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191230_180458/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191230_180458_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW191230_180458",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"204",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW191230_180458/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW191230_180458_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW191230_180458",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"205",
+ "name":"C01:IMRPhenomXPHM.fits",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200112_155838/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200112_155838_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW200112_155838",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"206",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200112_155838/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200112_155838_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW200112_155838",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"207",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200112_155838/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200112_155838_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW200112_155838",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"208",
+ "name":"C01:IMRPhenomNSBH:HighSpin",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200115_042309/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200115_042309_PEDataRelease_cosmo_reweight_C01:IMRPhenomNSBH:HighSpin.fits",
+ "parent_id":"GW200115_042309",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"209",
+ "name":"IMRPhenomNSBH:LowSpin",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200115_042309/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200115_042309_PEDataRelease_cosmo_reweight_C01:IMRPhenomNSBH:LowSpin.fits",
+ "parent_id":"GW200115_042309",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"210",
+ "name":"C01:IMRPhenomXPHM:HighSpin",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200115_042309/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200115_042309_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM:HighSpin.fits",
+ "parent_id":"GW200115_042309",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"211",
+ "name":"C01:IMRPhenomXPHM:LowSpin",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200115_042309/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200115_042309_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM:LowSpin.fits",
+ "parent_id":"GW200115_042309",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"212",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200115_042309/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200115_042309_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW200115_042309",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"213",
+ "name":"C01:Mixed:NSBH:HighSpin",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200115_042309/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200115_042309_PEDataRelease_cosmo_reweight_C01:Mixed:NSBH:HighSpin.fits",
+ "parent_id":"GW200115_042309",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"214",
+ "name":"C01:Mixed:NSBH:LowSpin",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200115_042309/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200115_042309_PEDataRelease_cosmo_reweight_C01:Mixed:NSBH:LowSpin.fits",
+ "parent_id":"GW200115_042309",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"215",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200115_042309/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200115_042309_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW200115_042309",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"216",
+ "name":"C01:SEOBNRv4_ROM_NRTidalv2_NSBH:HighSpin",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200115_042309/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200115_042309_PEDataRelease_cosmo_reweight_C01:SEOBNRv4_ROM_NRTidalv2_NSBH:HighSpin.fits",
+ "parent_id":"GW200115_042309",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"217",
+ "name":"C01:SEOBNRv4_ROM_NRTidalv2_NSBH:LowSpin",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200115_042309/v2",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200115_042309_PEDataRelease_cosmo_reweight_C01:SEOBNRv4_ROM_NRTidalv2_NSBH:LowSpin.fits",
+ "parent_id":"GW200115_042309",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"218",
+ "name":"01:IMRPhenomXPHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200128_022011/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200128_022011_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW200128_022011",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"219",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200128_022011/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200128_022011_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW200128_022011",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"220",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200128_022011/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200128_022011_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW200128_022011",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"221",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200129_065458/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200129_065458_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW200129_065458",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"222",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200129_065458/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200129_065458_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW200129_065458",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"223",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200129_065458/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200129_065458_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW200129_065458",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"224",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200202_154313/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200202_154313_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW200202_154313",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"225",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200202_154313/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200202_154313_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW200202_154313",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"226",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200202_154313/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200202_154313_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW200202_154313",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"227",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200208_130117/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200208_130117_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW200208_130117",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"228",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200208_130117/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200208_130117_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW200208_130117",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"229",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200208_130117/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200208_130117_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW200208_130117",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"230",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200208_222617/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200208_222617_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW200208_222617",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"231",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200208_222617/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200208_222617_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW200208_222617",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"232",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200208_222617/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200208_222617_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW200208_222617",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"233",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200209_085452/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200209_085452_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW200209_085452",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"234",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200209_085452/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200209_085452_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW200209_085452",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"235",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200209_085452/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200209_085452_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW200209_085452",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"236",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200210_092254/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200210_092254_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW200210_092254",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"237",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200210_092254/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200210_092254_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW200210_092254",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"238",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200210_092254/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200210_092254_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW200210_092254",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"239",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200216_220804/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200216_220804_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW200216_220804",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"240",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200216_220804/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200216_220804_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW200216_220804",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"241",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200216_220804/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200216_220804_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW200216_220804",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"242",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200219_094415/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200219_094415_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW200219_094415",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"243",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200219_094415/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200219_094415_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW200219_094415",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"244",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200219_094415/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200219_094415_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW200219_094415",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"245",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200220_061928/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200220_061928_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW200220_061928",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"246",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200220_061928/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200220_061928_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW200220_061928",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"247",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200220_061928/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200220_061928_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW200220_061928",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"248",
+ "name":"C01:IMRPhenomXPHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200220_124850/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200220_124850_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+ "parent_id":"GW200220_124850",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"249",
+ "name":"C01:Mixed",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200220_124850/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200220_124850_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+ "parent_id":"GW200220_124850",
+ "publication_data":"November 8, 2021."
+},
+{
+ "id":"250",
+ "name":"C01:SEOBNRv4PHM",
+ "zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+ "gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200220_124850/v1",
+ "skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200220_124850_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+ "parent_id":"GW200220_124850",
+ "publication_data":"November 8, 2021."
+},
+
+{
+"id":"251",
+"name":"C01:IMRPhenomXPHM",
+"zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+"gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200224_222234/v1",
+"skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200224_222234_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+"parent_id":"GW200224_222234",
+"publication_data":"November 8, 2021."
+},
+{
+"id":"252",
+"name":"C01:Mixed",
+"zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+"gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200224_222234/v1",
+"skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200224_222234_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+"parent_id":"GW200224_222234",
+"publication_data":"November 8, 2021."
+},
+{
+"id":"253",
+"name":"C01:SEOBNRv4PHM",
+"zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+"gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200224_222234/v1",
+"skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200224_222234_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+"parent_id":"GW200224_222234",
+"publication_data":"November 8, 2021."
+},
+{
+"id":"254",
+"name":"C01:IMRPhenomXPHM",
+"zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+"gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200225_060421/v1",
+"skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200225_060421_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+"parent_id":"GW200225_060421",
+"publication_data":"November 8, 2021."
+},
+{
+"id":"255",
+"name":"C01:Mixed",
+"zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+"gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200225_060421/v1",
+"skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200225_060421_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+"parent_id":"GW200225_060421",
+"publication_data":"November 8, 2021."
+},
+{
+"id":"256",
+"name":"C01:SEOBNRv4PHM",
+"zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+"gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200225_060421/v1",
+"skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200225_060421_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+"parent_id":"GW200225_060421",
+"publication_data":"November 8, 2021."
+},
+{
+"id":"257",
+"name":"C01:IMRPhenomXPHM",
+"zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+"gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200302_015811/v1",
+"skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200302_015811_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+"parent_id":"GW200302_015811",
+"publication_data":"November 8, 2021."
+},
+{
+"id":"258",
+"name":"C01:Mixed",
+"zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+"gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200302_015811/v1",
+"skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200302_015811_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+"parent_id":"GW200302_015811",
+"publication_data":"November 8, 2021."
+},
+{
+"id":"259",
+"name":"C01:SEOBNRv4PHM",
+"zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+"gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200302_015811/v1",
+"skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200302_015811_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+"parent_id":"GW200302_015811",
+"publication_data":"November 8, 2021."
+},
+{
+"id":"260",
+"name":"C01:IMRPhenomXPHM",
+"zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+"gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200306_093714/v1",
+"skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200306_093714_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+"parent_id":"GW200306_093714",
+"publication_data":"November 8, 2021."
+},
+{
+"id":"261",
+"name":"C01:Mixed",
+"zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+"gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200306_093714/v1",
+"skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200306_093714_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+"parent_id":"GW200306_093714",
+"publication_data":"November 8, 2021."
+},
+{
+"id":"262",
+"name":"C01:SEOBNRv4PHM",
+"zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+"gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200306_093714/v1",
+"skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200306_093714_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+"parent_id":"GW200306_093714",
+"publication_data":"November 8, 2021."
+},
+{
+"id":"263",
+"name":"C01:IMRPhenomXPHM",
+"zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+"gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200308_173609/v1",
+"skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200308_173609_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+"parent_id":"GW200308_173609",
+"publication_data":"November 8, 2021."
+},
+{
+"id":"264",
+"name":"C01:Mixed",
+"zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+"gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200308_173609/v1",
+"skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200308_173609_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+"parent_id":"GW200308_173609",
+"publication_data":"November 8, 2021."
+},
+{
+"id":"265",
+"name":"C01:SEOBNRv4PHM",
+"zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+"gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200308_173609/v1",
+"skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200308_173609_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+"parent_id":"GW200308_173609",
+"publication_data":"November 8, 2021."
+},
+{
+"id":"266",
+"name":"C01:IMRPhenomXPHM",
+"zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+"gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200311_115853/v1",
+"skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200311_115853_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+"parent_id":"GW200311_115853",
+"publication_data":"November 8, 2021."
+},
+{
+"id":"267",
+"name":"C01:Mixed",
+"zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+"gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200311_115853/v1",
+"skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200311_115853_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+"parent_id":"GW200311_115853",
+"publication_data":"November 8, 2021."
+},
+{
+"id":"268",
+"name":"C01:SEOBNRv4PHM",
+"zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+"gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200311_115853/v1",
+"skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200311_115853_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+"parent_id":"GW200311_115853",
+"publication_data":"November 8, 2021."
+},
+{
+"id":"269",
+"name":"C01:IMRPhenomXPHM",
+"zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+"gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200316_215756/v1",
+"skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200316_215756_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+"parent_id":"GW200316_215756",
+"publication_data":"November 8, 2021."
+},
+{
+"id":"270",
+"name":"C01:Mixed",
+"zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+"gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200316_215756/v1",
+"skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200316_215756_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+"parent_id":"GW200316_215756",
+"publication_data":"November 8, 2021."
+},
+{
+"id":"271",
+"name":"C01:SEOBNRv4PHM",
+"zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+"gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200316_215756/v1",
+"skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200316_215756_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+"parent_id":"GW200316_215756",
+"publication_data":"November 8, 2021."
+},
+{
+"id":"272",
+"name":"C01:IMRPhenomXPHM",
+"zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+"gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200322_091133/v1",
+"skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200322_091133_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+"parent_id":"GW200322_091133",
+"publication_data":"November 8, 2021."
+},
+{
+"id":"273",
+"name":"C01:Mixed",
+"zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+"gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200322_091133/v1",
+"skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200322_091133_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+"parent_id":"GW200322_091133",
+"publication_data":"November 8, 2021."
+},
+{
+"id":"274",
+"name":"C01:SEOBNRv4PHM",
+"zenodo_url":"https://zenodo.org/record/5546663#.YxYGs-xBzt0",
+"gwosc_url":"https://www.gw-openscience.org/eventapi/html/GWTC-3-confident/GW200322_091133/v1",
+"skymap_url":"https://virgo.pg.infn.it/maps/skymaps/IGWN-GWTC3p0-v1-GW200322_091133_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+"parent_id":"GW200322_091133",
+"publication_data":"November 8, 2021."
+}
+
+]
